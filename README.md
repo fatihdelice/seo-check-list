@@ -42,9 +42,9 @@
 
 > Mülkünüzü webmaster araçlarına doğru versiyonda kayıt ettiğinizden emin olun. Eğer web siteniz https://www şeklinde açılıyorsa ve mülkünüze http:// şeklinde kayıtlıysa hatalıdır.
 
-> Hreflang işaretlemesinin doğru olduğundan emin olun.
+> `Hreflang` işaretlemesinin doğru olduğundan emin olun.
 
-> Canonical etiketini kontrol edin.
+> `Canonical` etiketini kontrol edin.
 
 > Sayfalarınızı zengin arama sonuçlarına göre optimize edin.
 
@@ -66,7 +66,7 @@
 
 > Global bir ziyaretçi kitlesine dönüştüğünüzde CDN'ye yatırım yapmayı deneyebilirsiniz.
 
-> CDN ya da harici bir kaynak yüklemesinde, hızlı bir sonuç almak için DNS Prefecth kodunu kullanın. Bu sayede DNS çözümlemesi daha kısa sürede tamamlanır. Wordpress'te genel olarak bu otomatik yapılıyor ancak denetlemekte fayda var.
+> CDN ya da harici bir kaynak yüklemesinde, hızlı bir sonuç almak için `DNS Prefecth` kodunu kullanın. Bu sayede DNS çözümlemesi daha kısa sürede tamamlanır. Wordpress'te genel olarak bu otomatik yapılıyor ancak denetlemekte fayda var.
 
 > Schema markuplarınızı denetleyin. Hem ürün, hem hizmet hem blog hem de bir event sayfanız varsa, hepsi için özel schema markupları olduğunu unutmayın. Schema markuplarını mutlaka zenginleştirin. Buna bağlı CTR'da yoğun bir artış görmek söz konusu olabilir.
 
