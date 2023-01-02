@@ -1,5 +1,4 @@
 # Seo Kontrol Listesi (Seo Check List):
-- [Seo Kontrol Listesi (Seo Check List):](#seo-kontrol-listesi-seo-check-list)
 - [SEO'ya Başlarken](#seoya-başlarken)
 - [Teknik SEO Denetimi](#teknik-seo-denetimi)
 - [İçerikler İçin SEO](#i̇çerikler-i̇çin-seo)
